@@ -9,3 +9,4 @@ iloire Facturacion/_bin_deployableAssemblies/*
 *.sdf
 backup/
 .vs/
+packages/
