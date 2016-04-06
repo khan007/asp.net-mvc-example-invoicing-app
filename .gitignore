@@ -5,5 +5,7 @@ iloire Facturacion Tests/*.dll
 *.pdb
 *.suo
 iloire Facturacion/App_Error/*
+iloire Facturacion/_bin_deployableAssemblies/*
 *.sdf
 backup/
+.vs/
